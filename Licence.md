@@ -2,7 +2,7 @@
 
 **Version 1.0**
 
-**Copyright (c) 2026 [Dein Name]**
+**Copyright (c) 2026 [Ju3060TI]**
 **Alle Rechte vorbehalten / All rights reserved.**
 
 ---
